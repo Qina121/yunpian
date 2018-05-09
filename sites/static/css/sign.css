@@ -1,0 +1,119 @@
+.sign-content{
+    
+    padding: 0 37px;
+    border-top: 3px solid #03a9f4;
+    background-color: white;
+    box-shadow: 0 0 10px lightgrey;
+    border-radius: 2px;
+    height: 580px;
+    position: relative;
+    overflow: hidden;
+    width: 326px;
+    height: 580px;
+   
+    margin: 0 auto;
+    /* margin-top: 100px; */
+}
+.sign-content-b{
+    height: 663px;
+    background-color: #f9f9fa;
+    padding-top: 100px;
+}
+input{
+    padding:0;
+    margin: 0;
+
+}
+
+
+
+
+.sign-title{
+    padding: 20px 0;
+    font-size: 18px;
+    text-align: center;
+}
+.sign-phone {
+    position: relative;
+}
+.sign-phone input{
+    width: 256px;
+    height: 40px;
+    padding-left: 70px;
+    margin-bottom: 10px;
+}
+.sign-z{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 38px;
+    line-height: 40px;
+    padding-left: 10px;
+}
+.sign-z span{
+    display: inline-block;
+    border: 5px solid transparent;
+    border-top: 5px solid #000;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.sign-phone a{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    height: 38px;
+    line-height: 40px;
+    color:#03a9f4;
+    font-size: 12px;
+}
+.sign-m input{
+    width: 306px;
+    height: 40px;
+   margin-bottom: 10px;
+   padding: 0 10px;
+}
+.sign-b input{
+    width: 330px;
+    height: 40px;
+   margin-bottom: 10px;
+   text-align: center;
+   background-color: #03a9f4;
+   color: #fff;
+   border: none;
+
+}
+.sign-des{
+    width: 326px;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+.sign-des div{
+    color: #03a9f4;
+    font-size: 12px;
+   
+}
+.sign-other{
+    line-height: 30px;
+    color: #ccc;
+    text-align: center;
+}
+.sign-y input{
+    width: 306px;
+    height: 40px;
+   margin-bottom: 10px;
+   padding: 0 10px;
+}
+.sign-d input{
+    width: 306px;
+    height: 40px;
+   margin-bottom: 10px;
+   padding: 0 10px;
+}
+.sign-yq input{
+    width: 306px;
+    height: 40px;
+   margin-bottom: 10px;
+   padding: 0 10px;
+}

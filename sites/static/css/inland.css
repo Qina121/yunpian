@@ -1,0 +1,183 @@
+.inland-banner {
+  width: 100%;
+  height: 460px;
+  position: relative;
+}
+.inland-banner img {
+  width: 100%;
+  height: 100%;
+}
+.inland-wave {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  height: 19px;
+}
+.inland-content {
+  text-align: center;
+  background-color: #eef9ff;
+  padding: 40px 0 80px;
+  position: relative;
+  z-index: 4;
+  height: 1405px;
+}
+.domestic-banimg {
+  position: absolute;
+  top: 65px;
+  left: 10%;
+  height: 80%;
+}
+.inland-banner-desc {
+  position: absolute;
+  top: 120px;
+  right: 800px;
+  text-align: center;
+  color: #fff;
+}
+.inland-banner-desc .text {
+  font-size: 36px;
+  line-height: 45px;
+  text-align: center;
+}
+.inland-banner-desc .p {
+  font-size: 18px;
+  line-height: 35px;
+  text-align: center;
+}
+.inland-banner-desc .btn a {
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 18px;
+  border-radius: 25px;
+  background-color: #f857a6;
+  height: 45px;
+  line-height: 45px;
+  width: 155px;
+  cursor: pointer;
+  text-align: center;
+}
+.inland-cost {
+  height: 450px;
+  background-color: #eef9ff;
+  margin: 0 auto;
+}
+.inland-cost .main-title {
+  text-align: center;
+  font-size: 24px;
+  color: #333;
+  line-height: 31px;
+  padding-top: 30px;
+  position: relative;
+}
+.inland-cost .title-line {
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  margin-left: -100px;
+}
+.inland-cost .title-line .blue {
+  width: 100px;
+  float: left;
+  border-bottom: 2px solid blue;
+}
+.inland-cost .title-line .red {
+  width: 100px;
+  float: left;
+  border-bottom: 2px solid red;
+}
+.inland-cost h4 {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 12px;
+  color: #333;
+  margin-bottom: 40px;
+}
+.scene-img {
+  width: 1050px;
+  height: 216px;
+  margin: 0 auto;
+}
+.inland-imgitem {
+  width: 300px;
+  height: 216px;
+  margin-right: 50px;
+  float: left;
+}
+.inland-imgitem img {
+}
+.scene-img h3 {
+  font-size: 18px;
+  line-height: 18px;
+  margin-top: 30px;
+  position: relative;
+}
+.scene-img h5 {
+  width: 180px;
+  margin: auto;
+  font-size: 12px;
+  line-height: 25px;
+  color: #666666;
+  margin-top: 20px;
+}
+.inloan-bg {
+  height: 670px;
+}
+.inland-bg img {
+  width: 100%;
+}
+.inland-price-box {
+  height: 323px;
+  background-color: #f1f1f1;
+}
+.price-wave-time {
+  position: relative;
+}
+.price-wave-time .price-wave {
+  position: absolute;
+  top: -25.41px;
+  left: 0;
+  width: 100%;
+  z-index: 6;
+}
+.price-wave-time .price-wave img {
+  width: 100%;
+}
+.inland-price-box{
+    box-sizing: border-box;
+width: 740px;
+height: 245px;
+margin: auto;
+padding: 30px 50px;
+color: #666666;
+background: #fff;
+}
+.main-title{
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    line-height: 31px;
+    padding-top: 30px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.title-line{
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -100px;
+    
+}
+.title-line .blue{
+    width: 100px;
+    float: left;
+    border-bottom: 2px solid blue;
+}
+ .title-line .red{
+    width: 100px;
+    float: left;
+    border-bottom: 2px solid red;
+}
+.inland-price-box tr{
+    height: 50px;
+    line-height: 50px;
+}

@@ -1,0 +1,146 @@
+.main-header{
+    background-color: #fff;
+}
+.banner{
+    width: 100%;
+    height: 460px;
+    position: relative;
+}
+.banner img{
+    width: 100%;
+    height: 100%;
+}
+.price-wave{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 19px;
+}
+.price-cost{
+    height: 1000px;
+    background-color:#f1f1f1;
+    margin: 0 auto;
+}
+.price-cost .main-title{
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+    line-height: 31px;
+    padding-top: 30px;
+    position: relative;
+}
+.price-cost  .title-line{
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    margin-left: -100px;
+}
+.price-cost  .title-line .blue{
+    width: 100px;
+    float: left;
+    border-bottom: 2px solid blue;
+}
+.price-cost  .title-line .red{
+    width: 100px;
+    float: left;
+    border-bottom: 2px solid red;
+}
+.price-title {
+    height: 30px;
+    line-height: 30px;
+    width: 1015px;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 18px;
+} 
+.price-clock{
+    width: 1007px;
+    margin: 0 auto;
+    
+    background-color: #fff;
+    color:#666;
+  
+    border: 1px solid #99d9ff;
+    margin-bottom: 10px;
+}
+ .price-clock .price-bottom{
+    border: 0;
+    outline: 0;
+     margin: 0;
+     padding: 0;
+    width: 30px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 12px;
+    border-bottom: 10px solid #333;
+    border-collapse:collapse;
+  
+}
+teble{
+    margin: 0;
+    padding: 0;
+    width: 1013px;
+    height: 164px;
+    background-color: #fff;
+    border: 1px solid #99d9ff;
+    border-collapse: collapse;
+    outline: 0;
+}
+.price-clock th, .price-clock td{
+    border: 0;
+    outline: 0;
+    margin: 0;
+     padding: 0;
+    width: 250px;
+    padding: 0;
+    /* padding: 10px 0; */
+    vertical-align: middle;
+    border-right: 1px solid #deedf6;
+    border-collapse: collapse;
+    border-bottom: 1px solid #deedf6;
+    
+}
+.price-clock th{
+    background-color: #99d9ff;
+    color: #000;
+}
+.price-clock .number4{
+    border-right: none;
+}
+table tr th, table tr td { border-color:#deedf6; }
+.price-detail{
+    width: 946px;
+    margin: 0 auto;
+    height: 30px;
+    background-color: #fff;
+    padding: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    box-sizing: content-box;
+    margin-top: -10px;
+    border: 1px solid #99d9ff;
+    border-top: none;
+    text-align: center;
+}
+.price-detail a{
+    width: 100px;
+    height: 30px;
+    display: inlie-block;
+    text-align: center;
+    background-color: pink;
+    padding: 10px;
+    border-radius: 20px;
+}
+.price-wave-time{
+    position: relative;
+}
+.price-wave-time .price-wave{
+    position: absolute;
+    top: -25.41px;
+    left: 0;
+    width: 100%
+}
+.price-wave-time .price-wave img{
+    width: 100%;
+}

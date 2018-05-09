@@ -1,0 +1,102 @@
+input{
+    padding:0;
+    margin: 0;
+
+}
+.login-content{
+    height: 737px;
+    background-color:  #f9f9fa;
+}
+.login-content img{
+    padding-top: 60px;
+    margin-right: 200px;
+}
+.login-content-left{
+    float: left;
+}
+.login-content-right{
+    float: left;
+    padding: 0 37px;
+    border-top: 3px solid #03a9f4;
+    background-color: white;
+    box-shadow: 0 0 10px lightgrey;
+    border-radius: 2px;
+    height: 580px;
+    position: relative;
+    overflow: hidden;
+    width: 326px;
+    height: 580px;
+    margin-top: 100px;
+
+}
+.login-title{
+    padding: 20px 0;
+    font-size: 18px;
+    text-align: center;
+}
+.login-phone {
+    position: relative;
+}
+.login-phone input{
+    width: 256px;
+    height: 40px;
+    padding-left: 70px;
+    margin-bottom: 10px;
+}
+.login-z{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 38px;
+    line-height: 40px;
+    padding-left: 10px;
+}
+.login-z span{
+    display: inline-block;
+    border: 5px solid transparent;
+    border-top: 5px solid #000;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.login-phone a{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    height: 38px;
+    line-height: 40px;
+    color:#03a9f4;
+    font-size: 12px;
+}
+.login-m input{
+    width: 306px;
+    height: 40px;
+   margin-bottom: 10px;
+   padding: 0 10px;
+}
+.login-b input{
+    width: 330px;
+    height: 40px;
+   margin-bottom: 10px;
+   text-align: center;
+   background-color: #03a9f4;
+   color: #fff;
+   border: none;
+
+}
+.login-des{
+    width: 326px;
+    height: 40px;
+    border-bottom: 1px solid #ccc;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+.login-des div{
+    color: #03a9f4;
+    font-size: 14px;
+    float: right;
+}
+.login-other{
+    line-height: 30px;
+    color: #ccc;
+    
+}

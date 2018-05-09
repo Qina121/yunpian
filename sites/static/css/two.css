@@ -1,0 +1,114 @@
+.two-content{
+    height: 1100px;
+}
+
+
+.resolve-container{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 60px;
+    background-color: #f2faff;
+}
+.resolve-container .sider{
+    float: left;
+    width: 180px;
+    background-color: #f2faff;
+    height: 979px;
+}
+.resolve-container .sider a:nth-of-type(1){
+    background-color: #fff;
+    border-left: 4px solid #00a0ff;
+}
+.resolve-container .sider a{
+    height: 50px;
+    line-height: 50px;
+    cursor: pointer;
+    padding-left: 33px;
+    border-left: 4px solid transparent;
+    display: block;
+    text-decoration: none;
+}
+.page-view{
+    float: left;
+    width: 1020px;
+    min-height: 800px;
+    background-color: white;
+    position: relative;
+}
+.two-title{
+    padding: 30px 50px;
+}
+.two-sm-title{
+    font-size: 22px;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    padding-left: 50px;
+    background-color: #00a0ff;
+}
+.block-container{
+    padding: 30px 50px;
+  
+}
+.block-container-block{
+    width: 290px;
+    border-left: 1px solid #e5ecf2;
+    margin-bottom: 10px;
+    float: left;
+}
+.block-container-block-title{
+    font-size: 24px;
+    color: #00a0ff;
+    display: inline-block;
+    margin-left: 10px;
+}
+.block-container-block-desc{
+    clear: both;
+    font-size: 14px;
+    color: #666666;
+    line-height: 23px;
+    padding: 10px;
+
+}
+.resolve{
+    width: 298px;
+    height: 368px;
+    border: 1px solid #dcdcdc;
+    /* margin: 0 0 6px 6px; */
+    border-radius: 4px;
+    word-break: break-all;
+    display: inline-block;
+}
+.resolve .title{
+    height: 120px;
+    width: 100%;
+    background-color: #f2faff;
+    font-size: 16px;
+    color: #00a0ff;
+    text-align: center;
+    line-height: 120px;
+}
+.resolve .features{
+    padding: 14px 10px;
+    font-size: 12px;
+   
+}
+.resolve .features .feature{
+    font-size: 14px;
+    color: #666666;
+    position: relative;
+    margin-bottom: 29px;
+
+}
+
+
+.g-height{
+    height: 120px;
+}
+.two-footer{
+    position: relative;
+}
+.releat{
+    z-index: 3;
+}
